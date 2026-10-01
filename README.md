@@ -11,7 +11,7 @@
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50px"></picture> **Sobre mim**
+## **Sobre mim**
 
 <br>
 
@@ -29,50 +29,7 @@
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-<b> Habilidades</b>
-
-<br>
-
-<p align="center">
-
-- **Linguagens e Backend**:
-
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br>
-
-- **Cloud e DevOps**:
-
-  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br>
-
-- **Controle de Versão**:
-
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-- **Sistema Operacional**:
-
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-<b> Estatísticas do GitHub </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Estatísticas do GitHub</b>
 
 <br>
 
@@ -90,15 +47,12 @@
 
 <br>
 <br>
-<br>
 
 -----
 
 <br>
-<br>
 
-## <b> Vamos nos conectar..!</b>
-<img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="80">
+## <b>Vamos nos conectar!</b>
 
 <br>
 
@@ -138,16 +92,6 @@
 
 <br>
 <br>
-
-<div align="center">
-
-### <b>💻 Código • Aprendizado • Desenvolvimento • Evolução</b>
-
-</div>
-
-<br>
-
----
 
 <div align="center">
 
