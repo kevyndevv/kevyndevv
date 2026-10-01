@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjI3ZXM3ZXdueHdwYnNzMWp1anFxN2ljeWg1a2FuaHJyY3RmMTk4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1iNIkQBAwEkUuTpikf/giphy.gif" width="100%" />
-
 # Kevyn Negraes
 
 ### Desenvolvedor Java
