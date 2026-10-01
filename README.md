@@ -66,10 +66,6 @@ Construindo APIs, aprendendo novas tecnologias e transformando ideias em código
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevyndevv&theme=dark&hide_border=true" />
-
 </div>
 
 ---
