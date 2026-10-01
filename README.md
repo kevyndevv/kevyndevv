@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens e tecnologias:</strong> Java, Spring Boot, SQL, Docker, AWS, Git, GitHub e Linux.
+  ⚙️ <strong>Linguagens e tecnologias:</strong> Java, Spring Boot, SQL, Docker, AWS, Git, GitHub e Linux.
 </p>
 
 <p align="left">
