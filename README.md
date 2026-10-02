@@ -25,6 +25,6 @@
   <a href="https://instagram.com/kevynegraes" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-  <a href="https://discord.com/" title="Discord">
+  <a href="https://discord.com/users/senninzada" title="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
